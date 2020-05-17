@@ -1,0 +1,9 @@
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\bin\Debug\DAL_Projeto_DS_EAD.dll
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\bin\Debug\DAL_Projeto_DS_EAD.pdb
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\bin\Debug\DTO_Projeto_DS_EAD.dll
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\bin\Debug\DTO_Projeto_DS_EAD.pdb
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\obj\Debug\DAL_Projeto_DS_EAD.csprojAssemblyReference.cache
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\obj\Debug\DAL_Projeto_DS_EAD.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\obj\Debug\DAL_Projeto_DS_EAD.csproj.CopyComplete
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\obj\Debug\DAL_Projeto_DS_EAD.dll
+C:\Users\win\source\repos\Projeto_DS_EAD\DAL_Projeto_DS_EAD\obj\Debug\DAL_Projeto_DS_EAD.pdb
